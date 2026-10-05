@@ -1,2 +1,4 @@
 # Amazon
 Excel project with dashboard , charts and KPIs
+Swiggy Food Delivery & Customer Analytics – Microsoft Excel
+Created a comprehensive **Swiggy analytics dashboard** in Excel to explore food delivery data and understand customer and restaurant-level performance. Performed **data cleaning and transformation** to handle inconsistencies and prepare the dataset for analysis. Developed **KPIs and calculated fields** to measure order volume, revenue, discounts, delivery performance, customer demographics, and restaurant ratings. Used **PivotTables, slicers, and interactive charts** to examine cuisine preferences, payment behavior, order status, customer spending patterns, and delivery trends. The dashboard converts raw transactional data into meaningful visual insights that can support better understanding of **customer behavior, restaurant performance, and overall delivery operations**.
